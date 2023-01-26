@@ -1,0 +1,9 @@
+def are_you_playing_banjo(name):
+
+    if name[0] == "R" or name[0] == 'r':
+        return f'{name} plays banjo'
+
+    return f'{name} does not play banjo'
+
+    # Time O(1)
+    # Space O(1)
