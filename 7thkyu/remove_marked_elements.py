@@ -9,3 +9,6 @@ class List:
                 res.append(num)
                 
         return res
+    
+    # Time Complexity: O(N) number of numbers in integer list
+    # Space Complexity: O(N)
